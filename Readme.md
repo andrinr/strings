@@ -1,3 +1,3 @@
 # strings
 
-![alt text](IMG/prev.png "Logo Title Text 1")
+![alt text](prev.png "Logo Title Text 1")
