@@ -72,3 +72,7 @@ class J{
     pos.y += speed;
   }
 }
+
+void keyPressed(){
+  saveFrame("line-######.png");
+}
